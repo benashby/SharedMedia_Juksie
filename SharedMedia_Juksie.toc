@@ -1,1 +1,14 @@
+## Interface: 100100
+## Version: @project-version@
+## Title: SharedMedia_Juksie
+## Author: Juksie
+## Notes: Add the Juksie audio files to SharedMedia addons.
+
+## X-Category: Miscellaneous
+## X-Website: https://github.com/benashby/SharedMedia_Juksie
+## X-License: All Rights Reserved: You are free to fork and modify on GitHub.
+## X-Curse-Project-ID: 864598
+## OptionalDeps: LibSharedMedia-3.0
+## X-Embeds: LibSharedMedia-3.0
+
 MyMedia.lua
