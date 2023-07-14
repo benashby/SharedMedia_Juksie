@@ -16,6 +16,8 @@ local LSM = LibStub("LibSharedMedia-3.0")
 --   SOUND
 -- -----
 
+LSM:Register("sound", "|cFFFF7C0ARefreshEfflo|r", [[Interface\Addons\SharedMedia_Juksie\sound\refresh-efflo.ogg]])
+LSM:Register("sound", "|cFFFF7C0AUppies|r", [[Interface\Addons\SharedMedia_Juksie\sound\uppies.ogg]])
 
 
 ---
@@ -27,8 +29,12 @@ LSM:Register("sound", "|cFF00FF98UseBlackoutKick|r", [[Interface\Addons\SharedMe
 LSM:Register("sound", "|cFF00FF98Blackout|r", [[Interface\Addons\SharedMedia_Juksie\sound\blackout.ogg]])
 
 
+---
+--- Shaman Sounds
+---
 
 
+LSM:Register("sound", "|cFF0070DDRefreshHealingRain|r", [[Interface\Addons\SharedMedia_Juksie\sound\refresh-healing-rain.ogg]])
 
 
 LSM:Register("sound", "|cFFFF0000Starfall|r", [[Interface\Addons\SharedMedia_Juksie\sound\starfall.ogg]])
